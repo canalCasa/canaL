@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=" A Lenda da Ilha do Pó (Legendado)" tvg-logo="" group-title="Filme: Documentario", A Lenda da Ilha do Pó (Legendado)
-http://list.deeplist.nl/movie/fer001/techruthes021/52189.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" A Odisséia (Legendado)" tvg-logo="" group-title="Filme: Fantasia", A Odisséia (Legendado)
 http://list.deeplist.nl/movie/fer001/techruthes021/56051.mp4
 #EXTINF:-1 tvg-id="" tvg-name=" A Ovelha Negra (Legendado)" tvg-logo="" group-title="Filme: Drama", A Ovelha Negra (Legendado)
